@@ -1,0 +1,21 @@
+# Fichiers Python
+*.pyc
+__pycache__/
+
+# Environnement virtuel
+venv/
+.env/
+
+# Fichiers de log
+*.log
+
+# Fichiers de configuration de l'éditeur
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# QR généré
+static/mon_qr_code.png
